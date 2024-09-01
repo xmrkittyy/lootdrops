@@ -1,0 +1,4 @@
+name: LootDrops
+version: 1.0
+main: lootdrops.LootDrops
+api-version: 1.20
